@@ -1,2 +1,1 @@
-# phase-transitions
-Phase Transitions
+# Phase Transitions
